@@ -1,0 +1,5 @@
+{
+  "name": "FinEase - Personal Finance Management",
+  "description": "A personal finance management web application where users can manage their income, expenses, and savings goals. The platform allows users to record transactions, set monthly budgets, and view financial summaries with insightful charts and reports.",
+  "requestFramePermissions": []
+}
