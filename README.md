@@ -2,7 +2,7 @@
 
 A full‑stack personal finance management application designed to help users track income, expenses, budgets, and financial goals.
 
-This project includes a **React.js frontend** and a **Node.js/Express.js + MongoDB backend**, delivering a smooth, secure, and scalable financial tracking experience.
+This project includes a **React.js frontend** and a **Node.js/Express.js + MongoDB backend** delivering a smooth, secure, and scalable financial tracking experience.
 
 ---
 
