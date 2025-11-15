@@ -1,20 +1,58 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# FinEase – Take Control of Your Finances
 
-# Run and deploy your AI Studio app
+A full‑stack personal finance management application designed to help users track income, expenses, budgets, and financial goals.
 
-This contains everything you need to run your app locally.
+This project includes a **React.js frontend** and a **Node.js/Express.js + MongoDB backend**, delivering a smooth, secure, and scalable financial tracking experience.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1F96hgUKwv0ZmlYdEAcI_BKH4Fm0_fuJt
+---
 
-## Run Locally
+##  Live Demo & Repositories
 
-**Prerequisites:**  Node.js
+* 🔗 **Live Link:** https://finease-app.netlify.app/
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 📌 Project Overview
+
+FinEase is built to give users complete control over their finances through:
+
+* Income & expense tracking
+* Budget creation & monitoring
+* Real‑time financial summaries
+* Category-wise charts and insights
+* Secure user authentication (JWT / Firebase optional)
+
+The goal is to provide a clean and intuitive finance dashboard for everyday use.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+
+* **React.js**
+* **React Router**
+* **JavaScript (ES6+) / TypeScript**
+* **CSS3**
+* **Tailwind CSS**
+* **DaisyUI**
+* **Axios** (API calls)
+* **React Toastify** (notifications)
+* **Recharts** (data visualization)
+
+### **Backend**
+
+* **Node.js**
+* **Express.js**
+* **MongoDB + Mongoose**
+* **JWT Authentication / Middleware**
+
+
+---
+
+##  Author
+
+**Rifat Miah**
+
+FinEase — Empowering users to take control of their financial life.
